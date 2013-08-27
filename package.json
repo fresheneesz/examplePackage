@@ -1,0 +1,8 @@
+{"name":"examplePackage",
+ "version":"0.0.0",
+ "main": "example.js",
+ "dependencies":[
+    "colors",
+    "moment"
+ ]
+}
